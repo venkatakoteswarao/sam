@@ -4,7 +4,7 @@ import websockets
 import json
 
 # URL of the backend WebSocket server
-BACKEND_URL = "wss://game1-9l7z.onrender.com/ws" 
+BACKEND_URL = "wss://game-lomd.onrender.com/ws" 
 
 # State management
 if "player_name" not in st.session_state:
